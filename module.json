@@ -2,6 +2,8 @@
   "id": "014-witchs-home-free",
   "title": "014  Witch`s home Free",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/014-Witch-s-home-Free/main/module.json",
+"download": "https://github.com/D20dragon/014-Witch-s-home-Free/releases/download/1.0.0/014-witchs-home-free.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "13"
